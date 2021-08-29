@@ -1,0 +1,1 @@
+web: gunicorn steinconfig.wsgi --log-file -
